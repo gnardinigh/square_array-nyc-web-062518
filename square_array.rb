@@ -1,3 +1,4 @@
+
 def square_array(input_array)
   
   input_array.each do |element|
@@ -6,5 +7,8 @@ def square_array(input_array)
   
 end
   
-  
-  
+a = [1,2,3,4,5]
+
+
+
+
