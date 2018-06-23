@@ -1,4 +1,6 @@
-def square_array(array)
+def square_array(input_array)
+  
+
   
   
   
