@@ -7,5 +7,6 @@ def square_array(array)
     new_array[index]=element*element
     index++
   end
+  return new_array
   
   
