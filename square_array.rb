@@ -9,8 +9,4 @@ def square_array(input_array)
   return a
 end
   
-a = [1,2,3,4,5]
 
-b = square_array(a)
-
-puts b.inspect
