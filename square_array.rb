@@ -2,7 +2,7 @@
 def square_array(input_array)
   
   input_array.each do |element|
-    puts element
+    puts element*element
   end
   
 end
