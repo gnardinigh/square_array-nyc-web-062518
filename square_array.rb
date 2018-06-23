@@ -1,6 +1,6 @@
 
 def square_array(input_array)
-  
+  a = Array.new
   input_array.each do |element|
     puts element*element
   end
